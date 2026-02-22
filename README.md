@@ -2,9 +2,15 @@
 <h3 align="center">Business Intelligence Analyst | Power BI • DAX • SQL • Python</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shrey-bhanushali-2539ab196/">LinkedIn</a> •
-  <a href="mailto:shreybhanushali12@gmail.com">Email</a> •
-  <a href="tel:+4916325219101">Call</a>
+  <a href="https://www.linkedin.com/in/shrey-bhanushali-2539ab196/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shreybhanushali12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shreybhanushali12%40gmail.com-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+4916325219101">
+    <img src="https://img.shields.io/badge/Call-%2B49%2016325219101-green?logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
