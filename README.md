@@ -80,10 +80,9 @@
 ---
 
 ## 📌 Featured Projects
-- 📈 **Executive KPI Dashboard (Power BI)** — Built a KPI framework with drilldowns, variance analysis, and role-based views for leadership reporting.  
-- 🧱 **Semantic Model (Star Schema)** — Designed a clean star schema + measures layer (DAX) for scalable self-service reporting.  
-- 🔄 **ETL & Data Prep (SQL/Python)** — Automated data cleaning, joins, and refresh-ready datasets to support BI reporting pipelines.  
-
+- 📈 **Executive KPI Dashboard (Power BI)** — [View repo](https://github.com/shreyb12/powerbi-executive-kpi-dashboard)
+- 🧱 **Semantic Model (Star Schema)** — *(next)*  
+- 🔄 **ETL & Data Prep (SQL/Python)** — *(next)*
 ---
 
 ## 🤝 Connect with me
