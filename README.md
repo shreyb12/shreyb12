@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 📊 ~4 years building **KPI frameworks, executive dashboards, and scalable reporting** in fast-paced environments  
+- 📊 4 years building **KPI frameworks, executive dashboards, and scalable reporting** in fast-paced environments  
 - ⚙️ Strong hands-on in **Power BI (DAX), semantic modeling (star schema), performance optimization**
 - 🧰 Built ETL / analytics layers using **SQL + Python**
 - 🚗 Industry experience: **Automotive & Manufacturing** (Webasto, Hero Tech Center Germany)
