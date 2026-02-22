@@ -21,24 +21,32 @@
 
 ## 🚀 About Me
 - 📊 4 years building **KPI frameworks, executive dashboards, and scalable reporting** in fast-paced environments  
-- ⚙️ Strong hands-on in **Power BI (DAX), semantic modeling (star schema), performance optimization**
-- 🧰 Built ETL / analytics layers using **SQL + Python**
-- 🚗 Industry experience: **Automotive & Manufacturing** (Webasto, Hero Tech Center Germany)
-- 🌍 Based in Munich | Open to relocate in Germany | Available immediately
+- ⚙️ Strong hands-on in **Power BI (DAX), semantic modeling (star schema), performance optimization**  
+- 🧰 Built ETL / analytics layers using **SQL + Python**  
+- 🚗 Industry experience: **Automotive & Manufacturing** (Webasto, Hero Tech Center Germany)  
+- 🌍 Based in Munich | Open to relocate in Germany | Available immediately  
 
 ---
 
 ## 🧰 Tools & Tech
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure,aws,git,github" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
-- 📈 Executive KPI Dashboard (Power BI) — coming soon  
-- 🧱 Star Schema + Semantic Model — coming soon  
-- 🔄 ETL Pipeline (SQL/Python) — coming soon  
+- 📈 **Executive KPI Dashboard (Power BI)** — Built a KPI framework with drilldowns, variance analysis, and role-based views for leadership reporting.  
+- 🧱 **Semantic Model (Star Schema)** — Designed a clean star schema + measures layer (DAX) for scalable self-service reporting.  
+- 🔄 **ETL & Data Prep (SQL/Python)** — Automated data cleaning, joins, and refresh-ready datasets to support BI reporting pipelines.  
+
+---
+
+## 🤝 Connect with me
+- LinkedIn: https://www.linkedin.com/in/shrey-bhanushali-2539ab196/  
+- Email: shreybhanushali12@gmail.com  
+- Phone: +49 163 25219101  
 
 ---
 
