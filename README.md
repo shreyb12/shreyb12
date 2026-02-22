@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shrey-bhanushali-2539ab196/">LinkedIn</a> •
-  <a href="mailto:shreybhanushali12@gmail.com">Email</a>
+  <a href="mailto:shreybhanushali12@gmail.com">Email</a> •
+  <a href="tel:+4916325219101">Call</a>
 </p>
 
 <p align="center">
