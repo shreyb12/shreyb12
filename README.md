@@ -30,29 +30,48 @@
 
 ## 🧰 Tools & Tech
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" />
+  <!-- Core -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Power%20BI-222?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+  <a href="https://learn.microsoft.com/fabric/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft%20Fabric-222?style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" />
+  <a href="https://learn.microsoft.com/sql/sql-server/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SQL%20Server-222?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  </a>
+
+  <!-- Data / Cloud -->
+  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Snowflake-222?style=for-the-badge&logo=snowflake&logoColor=29B5E8" />
+  </a>
+  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Databricks-222?style=for-the-badge&logo=databricks&logoColor=FF3621" />
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=azure" />
+    <img src="https://img.shields.io/badge/Azure-222?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=aws" />
+    <img src="https://img.shields.io/badge/AWS-222?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
   </a>
+
+  <!-- Programming / DB -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-222?style=for-the-badge&logo=python&logoColor=3776AB" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-222?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-222?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  </a>
+
+  <!-- Dev -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://img.shields.io/badge/Git-222?style=for-the-badge&logo=git&logoColor=F05032" />
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
